@@ -238,31 +238,6 @@ External contributions are not accepted at this time. However, if you are:
 
 Please reach out via the contact details below.
 
-### For Internal Developers (Lufem Technologies)
-
-```bash
-# Clone the repo
-git clone https://github.com/LufemTech/utme-master.git
-cd utme-master
-
-# Install dependencies
-npm install
-
-# Set up environment
-cp .env.example .env
-# Edit .env with your local DB credentials
-
-# Run Prisma migrations
-npx prisma migrate dev
-
-# Start in development mode
-npm run dev
-```
-
-> ⚠️ Never commit `node_modules/`, `.env`, or `prisma/migrations/` generated from local dev. See `.gitignore`.
-
----
-
 ## Contact & Branding
 
 <div>
@@ -272,8 +247,8 @@ Department of Computer Science & IT
 Lufem College of Technology, Agege, Lagos, Nigeria
 
 📧 Email: [lufemtechnologies@gmail.com](mailto:lufemtechnologies@gmail.com)  
-🌐 Website: *(coming soon — Netlify landing page)*  
-📦 GitHub: [github.com/LufemTech](https://github.com/LufemTech)
+🌐 Website: [https://utme-master.netlify.app/] 
+📦 GitHub: [github.com/LufemTech](https://github.com/Ayokule)
 
 </div>
 
@@ -284,5 +259,5 @@ Lufem College of Technology, Agege, Lagos, Nigeria
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for Nigerian secondary schools · © 2025 Lufem Technologies · All rights reserved</sub>
+  <sub>Built with ❤️ for Nigerian secondary schools · © 2026 Lufem Technologies · All rights reserved</sub>
 </div>
