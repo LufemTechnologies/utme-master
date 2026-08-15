@@ -1,7 +1,7 @@
 # 🎓 UTME Master
 
 > **A professional, LAN-based UTME exam preparation system for Nigerian secondary schools.**  
-> Built by [Lufem Technologies](mailto:lufemtechnologies@gmail.com) — Empowering education through technology.
+> Built by [Spdiq] — Empowering education through technology.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-informational) ![License](https://img.shields.io/badge/license-Commercial-red) ![Status](https://img.shields.io/badge/status-Stable-brightgreen)
 
