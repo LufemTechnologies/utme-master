@@ -246,7 +246,7 @@ Please reach out via the contact details below.
 Department of Computer Science & IT  
 Lufem College of Technology, Agege, Lagos, Nigeria
 
-📧 Email: [lufemtechnologies@gmail.com](mailto:lufemtechnologies@gmail.com)  
+📧 Email: [ayokule234@gmail.com](mailto: ayokule234@gmail.com)  
 🌐 Website: [https://utme-master.netlify.app/] 
 📦 GitHub: [github.com/LufemTech](https://github.com/Ayokule)
 
